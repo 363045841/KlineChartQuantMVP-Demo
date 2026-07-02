@@ -11,8 +11,8 @@
     "type-check": "vue-tsc --build"
   },
   "dependencies": {
-    "@363045841yyt/klinechart": "^0.8.14-alpha.2",
-    "@363045841yyt/klinechart-core": "^0.8.14-alpha.2",
+    "@363045841yyt/klinechart": "^0.8.14",
+    "@363045841yyt/klinechart-core": "^0.8.14",
     "vue": "^3.5.38"
   },
   "devDependencies": {

@@ -9,11 +9,11 @@ importers:
   .:
     dependencies:
       '@363045841yyt/klinechart':
-        specifier: ^0.8.14-alpha.2
-        version: 0.8.14-alpha.2(@363045841yyt/klinechart-core@0.8.14-alpha.2)(vue@3.5.39(typescript@6.0.3))
+        specifier: ^0.8.14
+        version: 0.8.14(@363045841yyt/klinechart-core@0.8.14)(vue@3.5.39(typescript@6.0.3))
       '@363045841yyt/klinechart-core':
-        specifier: ^0.8.14-alpha.2
-        version: 0.8.14-alpha.2
+        specifier: ^0.8.14
+        version: 0.8.14
       vue:
         specifier: ^3.5.38
         version: 3.5.39(typescript@6.0.3)
@@ -48,14 +48,14 @@ importers:
 
 packages:
 
-  '@363045841yyt/klinechart-core@0.8.14-alpha.2':
-    resolution: {integrity: sha512-J3jfzD5aZB5oc9F2b04Qgx0+tUOmW51j7vFYiPQigbfTdh8bUvMFrdfdnaxM3tH1XjgpOq9fG3QS327oHxrCVA==}
+  '@363045841yyt/klinechart-core@0.8.14':
+    resolution: {integrity: sha512-6GvsvCD5PuioUQ8Fo3sVzVJGp2egmTD7W4HDqYYfjmWtcz/ZR9dJGTW0vtlsop14Vl359I9qtZptsFxFV1eL1g==}
 
-  '@363045841yyt/klinechart@0.8.14-alpha.2':
-    resolution: {integrity: sha512-wPeFrpTxivDo6DeEqj9gkXhTje8KV3LI5Iv7o1LZEpwGZT3ji8kJfDxbFezJWWN2goB3I8R4x74Xu/L/T1H6Bw==}
+  '@363045841yyt/klinechart@0.8.14':
+    resolution: {integrity: sha512-mwGXhbbk80Ctf4FBbSyOR1Pw2tUQgBO29ax8rskvFjX7aMOOKSwsR8n2eTu2TnTGAs5STBM6YxJ4R993iNtUPw==}
     engines: {node: ^20.19.0 || >=22.12.0}
     peerDependencies:
-      '@363045841yyt/klinechart-core': ^0.8.14-alpha.2
+      '@363045841yyt/klinechart-core': ^0.8.14
       vue: ^3.4.0
 
   '@babel/code-frame@7.29.7':
@@ -941,15 +941,15 @@ packages:
 
 snapshots:
 
-  '@363045841yyt/klinechart-core@0.8.14-alpha.2':
+  '@363045841yyt/klinechart-core@0.8.14':
     dependencies:
       effect: 3.21.4
     optionalDependencies:
       ajv: 8.20.0
 
-  '@363045841yyt/klinechart@0.8.14-alpha.2(@363045841yyt/klinechart-core@0.8.14-alpha.2)(vue@3.5.39(typescript@6.0.3))':
+  '@363045841yyt/klinechart@0.8.14(@363045841yyt/klinechart-core@0.8.14)(vue@3.5.39(typescript@6.0.3))':
     dependencies:
-      '@363045841yyt/klinechart-core': 0.8.14-alpha.2
+      '@363045841yyt/klinechart-core': 0.8.14
       vue: 3.5.39(typescript@6.0.3)
 
   '@babel/code-frame@7.29.7':
