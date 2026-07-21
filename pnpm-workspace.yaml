@@ -1,5 +1,3 @@
 minimumReleaseAgeExclude:
-  - '@363045841yyt/klinechart-core@0.8.14-alpha.2'
-  - '@363045841yyt/klinechart@0.8.14-alpha.2'
-  - '@363045841yyt/klinechart-core@0.8.14'
-  - '@363045841yyt/klinechart@0.8.14'
+  - '@363045841yyt/klinechart-core@0.8.14-alpha.2 || 0.8.14 || 0.9.0-alpha.4 || 0.9.0-alpha.5'
+  - '@363045841yyt/klinechart@0.8.14-alpha.2 || 0.8.14 || 0.9.0-alpha.4 || 0.9.0-alpha.5'
